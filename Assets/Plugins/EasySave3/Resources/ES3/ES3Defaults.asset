@@ -29,15 +29,15 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
-    - EasySave3
+    - CW.Common
+    - Assembly-CSharp
     - Zenject
     - UniRx
-    - CW.Common
     - ToonyColorsPro.Demo.Editor
+    - EasySave3
     - ToonyColorsPro.Editor
-    - Assembly-CSharp
     - Cinemachine
-    - Sirenix.OdinInspector.CompatibilityLayer.Editor
+    - PPv2URPConverters
     - LeanCommon
     - ColoredHeaderCreator.Editor
     - Assembly-CSharp-firstpass
@@ -49,7 +49,6 @@ MonoBehaviour:
     - HierarchyIconsEditor
     - Sirenix.OdinInspector.Modules.UnityMathematics
     - ToonyColorsPro.Runtime
-    - Sirenix.OdinInspector.CompatibilityLayer
     - ColoredHeaderCreator
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
