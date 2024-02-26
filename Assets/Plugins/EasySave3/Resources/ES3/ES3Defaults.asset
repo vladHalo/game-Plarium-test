@@ -30,12 +30,10 @@ MonoBehaviour:
     serializationDepthLimit: 64
     assemblyNames:
     - CW.Common
-    - Assembly-CSharp
     - Zenject
     - UniRx
-    - ToonyColorsPro.Demo.Editor
+    - Assembly-CSharp
     - EasySave3
-    - ToonyColorsPro.Editor
     - Cinemachine
     - PPv2URPConverters
     - LeanCommon
@@ -44,11 +42,9 @@ MonoBehaviour:
     - UniRx.Examples
     - HierarchyIcons
     - LeanPool
-    - ToonyColorsPro2.Demo
     - Zenject-TestFramework
     - HierarchyIconsEditor
     - Sirenix.OdinInspector.Modules.UnityMathematics
-    - ToonyColorsPro.Runtime
     - ColoredHeaderCreator
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
@@ -56,4 +52,4 @@ MonoBehaviour:
   addAllPrefabsToManager: 1
   logDebugInfo: 0
   logWarnings: 1
-  logErrors: 0
+  logErrors: 1
